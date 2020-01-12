@@ -1,2 +1,4 @@
 # ping-pong
-Ping Pong game writed with Python
+Ping Pong game is writed with Python
+
+Required library: pygame
